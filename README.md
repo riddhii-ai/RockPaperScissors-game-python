@@ -28,7 +28,7 @@ Play against the computer and test your luck and strategy!
 1. Clone this repository
 
 ```bash
-git clone <https://github.com/riddhii-ai/RockPaperScissors-game-python.git>
+git clone https://github.com/riddhii-ai/RockPaperScissors-game-python.git
 ```
 
 2. Open the project folder
