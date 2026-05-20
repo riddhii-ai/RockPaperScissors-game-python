@@ -52,11 +52,11 @@ python game.py
 ## 📸 Sample Gameplay
 
 ```text
-Enter your choice (rock/paper/scissors): rock
-
-Computer chose: scissors
-
-🎉 You Win!
+Enter s for scissors, r for rock and p for paper
+Enter : s
+You chose : Scissors
+Computer chose : Scissors
+Tie
 ```
 
 ---
